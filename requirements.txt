@@ -24,7 +24,7 @@ google-cloud-storage==1.4.0
 google-resumable-media==0.2.3
 googleapis-common-protos==1.5.2
 idna==2.6
-ipython==6.1.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==0.24
 jedi==0.10.2
