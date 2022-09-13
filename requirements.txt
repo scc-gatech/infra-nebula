@@ -17,7 +17,7 @@ firebase-admin==2.3.0
 Flask==1.0
 Flask-Session==0.3.1
 Flask-WTF==0.14.2
-flower==0.9.2
+flower==1.2.0
 google-auth==1.0.2
 google-cloud-core==0.27.1
 google-cloud-storage==1.4.0
